@@ -1,6 +1,7 @@
 # math_utils.py
 def add(a: int, b: int) -> int:
     """두 수의 합을 반환합니다."""
+import science
     
     return a - b
 
